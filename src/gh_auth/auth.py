@@ -8,6 +8,10 @@ from .exceptions import *
 
 
 def authenticate_with_github(client_id, scopes=None):
+
+    if scopes is None:
+        scopes = []
+
     def send_auth_request(mode, payload, interval=None):
         if mode == "verify":
             response = requests.post("https://github.com/login/device/code", data=payload)
