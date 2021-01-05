@@ -1,8 +1,13 @@
 [tool.poetry]
 name = "gh_auth"
-version = "0.1.2"
+version = "0.1.3"
 description = "A simple Python library for web-based GitHub authentication."
 authors = ["Jason Tolbert <jasonalantolbert@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/jasonalantolbert/gh-auth"
+repository = "https://github.com/jasonalantolbert/gh-auth"
+keywords = "github authentication"
 
 [tool.poetry.dependencies]
 python = "^3.9.0"
