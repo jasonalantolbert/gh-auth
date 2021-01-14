@@ -37,7 +37,7 @@ See a full list of available OAuth scopes [here](https://docs.github.com/en/free
 If you're using an OAuth app and don't define any scopes, GitHub will default to granting it read-only access to the
 public data associated with the account being authenticated and nothing more. (For GitHub apps, [scopes are defined
 on GitHub](https://docs.github.com/en/free-pro-team@latest/developers/apps/editing-a-github-apps-permissions) 
-and can't be changed from this module.)
+and can't be changed from this library.)
 
 ## License
 
