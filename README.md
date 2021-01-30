@@ -41,4 +41,4 @@ and can't be changed from this library.)
 
 ## License
 
-gh-auth's source code is released under the MIT License.
+gh-auth is released under the MIT License.
