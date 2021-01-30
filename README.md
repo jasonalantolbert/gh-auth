@@ -1,6 +1,7 @@
 # gh-auth
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gh-auth)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gh-auth) 
+![PyPI - License](https://img.shields.io/pypi/l/gh-auth)
 
 A simple Python library for web-based GitHub authentication using the [device flow](https://docs.github.com/en/free-pro-team@latest/developers/apps/authorizing-oauth-apps#device-flow).
 
